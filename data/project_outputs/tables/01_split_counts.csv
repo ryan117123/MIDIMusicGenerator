@@ -1,0 +1,4 @@
+split,n_rows
+train,962
+test,177
+val,137

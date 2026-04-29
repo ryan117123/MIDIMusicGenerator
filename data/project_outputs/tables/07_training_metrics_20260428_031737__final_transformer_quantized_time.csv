@@ -1,0 +1,2 @@
+accuracy,cross_entropy,perplexity,top5,run_name,setting,seq_len,stride,best_epoch,best_val_loss,n_train_windows,n_val_windows,n_test_windows,emb_dim,nhead,num_layers,ff_mult,dropout,lr,weight_decay,batch_size,epochs_requested,patience
+0.2737351730815783,2.8666349065103733,17.577767732309848,0.6318082788671024,final_transformer_quantized_time,quantized_time,256,128,10,2.929686795622677,142712,16787,20655,192,6,3,4,0.3,0.0008,0.0005,64,10,3

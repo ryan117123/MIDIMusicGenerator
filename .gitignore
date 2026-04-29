@@ -1,0 +1,31 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+.pytest_cache/
+
+# Environments
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Data and artifacts
+data/raw/*
+data/processed/*
+!data/raw/.gitkeep
+!data/processed/.gitkeep
+reports/figures/*
+!reports/figures/.gitkeep
+checkpoints/
+outputs/
+
+data/project_outputs/cache/sequence_cache_256seq.json
+data/project_outputs/cache/sequence_cache_with_quant_ids.json
+data/project_outputs/cache/sequence_cache.json
+data/raw
+# OS/editor files
+.DS_Store
+.vscode/

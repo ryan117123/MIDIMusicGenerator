@@ -1,0 +1,2 @@
+setting,model,accuracy,cross_entropy,perplexity,top5,emb_dim,n_heads,n_layers,epochs,batch_size,lr,dropout
+quantized_time,transformer_custom,0.28527763627101377,2.7388495790440044,15.46917878847861,0.6446401280838366,192,6,3,10,64,0.001,0.2

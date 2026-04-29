@@ -1,0 +1,4 @@
+setting,architecture,context_len,stride,n_train_windows,n_val_windows,n_test_windows,accuracy,cross_entropy,perplexity,top5,emb_dim,n_heads,n_layers,epochs,batch_size,lr,dropout
+quantized_time,transformer_custom,64,32,10000,5000,5000,0.1854,3.70572566986084,40.67955653673912,0.4804,192,6,3,5,64,0.001,0.2
+quantized_time,transformer_custom,128,64,10000,5000,5000,0.1772,3.6484625339508057,38.415558006175516,0.4778,192,6,3,5,64,0.001,0.2
+quantized_time,transformer_custom,256,128,10000,5000,5000,0.2034,3.6414566040039062,38.14736187655083,0.5064,192,6,3,5,32,0.001,0.2

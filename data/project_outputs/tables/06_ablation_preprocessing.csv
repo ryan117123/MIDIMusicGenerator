@@ -1,0 +1,3 @@
+setting,best_baseline_model,best_baseline_ppl,gru_ppl,transformer_ppl,ppl_gain_vs_best_baseline_gru,ppl_gain_vs_best_baseline_transformer
+quantized_time,bigram_markov,83.20265052029337,15.543741252389085,15.46917878847861,67.65890926790429,67.73347173181476
+raw_time,unigram,219.1150685801621,37.23957485462421,,181.8754937255379,

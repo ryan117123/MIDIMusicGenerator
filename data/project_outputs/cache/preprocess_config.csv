@@ -1,0 +1,2 @@
+seed,time_bin_sec,min_duration_sec,max_duration_sec
+42,0.01,5.0,1800.0

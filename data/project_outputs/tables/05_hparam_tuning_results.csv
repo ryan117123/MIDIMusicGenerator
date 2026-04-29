@@ -1,0 +1,4 @@
+setting,config_id,emb_dim,nhead,num_layers,ff_mult,dropout,lr,weight_decay,epochs,patience,batch_size,max_train_windows,max_val_windows,architecture,n_train_windows,n_val_windows,best_epoch,best_val_loss
+quantized_time,t2,192,6,3,4,0.3,0.0008,0.0005,10,3,64,10000,2000,transformer_custom,10000,2000,7,3.8681485801935196
+quantized_time,t3,256,8,4,4,0.25,0.0006,0.001,10,3,48,10000,2000,transformer_custom,10000,2000,4,3.909982380412874
+quantized_time,t1,192,6,3,4,0.2,0.001,0.0001,10,3,64,10000,2000,transformer_custom,10000,2000,4,3.9103865772485733
